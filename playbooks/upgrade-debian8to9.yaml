@@ -1,0 +1,8 @@
+---
+
+# Prerequisitos do ambiente:
+# - Atualizar chaves gpg.
+# - Atualizar repositórios.
+# - 
+# - Instuções para upgrade de versão dos PDVs que possuem a versão do Debian 8 Jessie.
+# - name: upgrade from Debian Jessie 9 to Debian 9 Scretch 
